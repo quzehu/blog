@@ -65,17 +65,23 @@
 主要参与并采用Bootstrap、css3、html5、JQuery，jsTree等技术开发页面。
 </br>
 * 飞泊通微信活动抢券页面截图</br>
-![image](https://github.com/ifeng2016/blog/blob/master/2015/Tianxingjia/projects/wx_activity/58tc/screenshots/index.png)</br>
+![image](https://github.com/ifeng2016/blog/blob/master/2015/Tianxingjia/projects/wx_activity/58tc/screenshots/index.png)
 ![image](https://github.com/ifeng2016/blog/blob/master/2015/Tianxingjia/projects/wx_activity/58tc/screenshots/result.png)
 
 ## 2016年：
 * [聚诚官网](http://www.orange666.com/)
 - 使用H5、Div+Css、jQuery前端技术实现页面，使用Css3动画技术完成动画效果，使用js判断手机用户进行移动版页面的切换，以及手机版页面适配
-* [zhct桔橙商户平台](http://b.orange666.com/)
+* [zhct桔橙商户平台](http://b.orange666.com/)</br>
+![image](https://github.com/ifeng2016/blog/blob/master/2016/Jucheng/projects/zhct/screenshots/index.jpg)</br>
 - 根据UI提供的设计图，使用Photoshop等工具合理切图，实现Web界面；js程序模块开发，通用类库、框架编写；配合后台开发人员完成前端数据呈现，实现产品界面和功能；使用H5和CSS3进行网页前端框架的设计与实现；手机端微信公众号点餐页面和切换功能；使用js动态生成手机端H5场景动画功能；机构端的优惠券生成功能
 * oms后台管理系统</br>
-![image](https://github.com/ifeng2016/blog/blob/master/2016/Jucheng/projects/oms/screenshots/login.png)
+![image](https://github.com/ifeng2016/blog/blob/master/2016/Jucheng/projects/oms/screenshots/index.jpg)</br>
 - js程序模块开发，通用类库、框架编写；配合后台开发人员完成前端数据呈现，实现产品界面和功能；使用H5、CSS3、Bootstrap进行网页前端框架的设计与实现
+* agent后台管理系统</br>
+![image](https://github.com/ifeng2016/blog/blob/master/2016/Jucheng/projects/agent/screenshots/index.png)</br>
+- js程序模块开发，通用类库、框架编写；配合后台开发人员完成前端数据呈现，实现产品界面和功能；使用H5、CSS3、Bootstrap进行网页前端框架的设计与实现
+
+
 * 桔橙微信公众号</br>
 - 开发滑动选择用餐人数、点餐菜单、优惠券、代金券、买单等其他的H5页面，使用js完成加载数据、切换页面内容、渲染数据等交互功能</br>
 ![image](https://github.com/ifeng2016/blog/blob/master/2016/Jucheng/projects/weixin/agency/screenshots/index.jpg)</br>
