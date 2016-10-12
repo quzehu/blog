@@ -77,7 +77,7 @@
 ![image](https://github.com/ifeng2016/blog/blob/master/2016/Jucheng/projects/oms/screenshots/login.png)
 - js程序模块开发，通用类库、框架编写；配合后台开发人员完成前端数据呈现，实现产品界面和功能；使用H5、CSS3、Bootstrap进行网页前端框架的设计与实现
 * 桔橙微信公众号</br>
-- 开发滑动选择用餐人数、点餐菜单、优惠券、代金券、买单等其他的H5页面，使用js完成加载数据、切换页面内容、渲染数据等交互功能
+- 开发滑动选择用餐人数、点餐菜单、优惠券、代金券、买单等其他的H5页面，使用js完成加载数据、切换页面内容、渲染数据等交互功能</br>
 ![image](https://github.com/ifeng2016/blog/blob/master/2016/Jucheng/projects/weixin/agency/screenshots/index.jpg)</br>
 ![image](https://github.com/ifeng2016/blog/blob/master/2016/Jucheng/projects/weixin/coupon/screenshots/index.png)</br>
 ![image](https://github.com/ifeng2016/blog/blob/master/2016/Jucheng/projects/weixin/hongbao/hongbao.png)</br>
