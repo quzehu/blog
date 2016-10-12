@@ -28,4 +28,6 @@
 
 ## 2016年：
 * [聚诚官网](http://www.orange666.com/)
-* [后台管理系统](https://github.com/ifeng2016/blog/blob/master/2016/Jucheng/projects/oms/screenshots/login.png)
+* [zhct后台管理系统](http://b.orange666.com/)
+* oms后台管理系统</br>
+![image](https://github.com/ifeng2016/blog/blob/master/2016/Jucheng/projects/oms/screenshots/login.png)
