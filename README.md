@@ -82,3 +82,8 @@
 ![image](https://github.com/ifeng2016/blog/blob/master/2016/Jucheng/projects/weixin/coupon/screenshots/index.png)</br>
 ![image](https://github.com/ifeng2016/blog/blob/master/2016/Jucheng/projects/weixin/hongbao/hongbao.png)</br>
 ![image](https://github.com/ifeng2016/blog/blob/master/2016/Jucheng/projects/weixin/meal/screenshots/index.png)</br>
+
+
+## 业余时间开发的项目：
+- reactjs + webpack:
+https://github.com/ifeng2016/Agency-react
